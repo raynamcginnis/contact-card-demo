@@ -27,7 +27,7 @@ This project was completed in order to familiarize myself with Gutenberg block d
 
 == Screenshots ==
 
-![Screenshot of Plugin](/assets/screenshot.png)
+![Screenshot of Plugin](/contact-card-demo/blob/main/assets/screenshot.png)
 
 == Changelog ==
 
